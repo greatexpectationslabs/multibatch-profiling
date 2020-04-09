@@ -3,7 +3,7 @@ Test repo for experimental multibatch profiling
 
 ### Setup
 
-For now, this demo is built off an experimental branch ( ) on this public fork of Great Expectations: ``.
+For now, this demo is built off an experimental branch (`experimental/multibatch-profiling`) on this public fork of Great Expectations: `https://github.com/abegong/great_expectations-1`.
 
 Later, we may want to bring this example notebook into GE itself.
 
@@ -16,6 +16,6 @@ For now, setup is:
 
 ### Data
 
-...is from https://github.com/fivethirtyeight/data.
+...is from `https://github.com/fivethirtyeight/data`.
 
-https://github.com/fivethirtyeight/data/blob/master/foul-balls/foul-balls.csv
+`https://github.com/fivethirtyeight/data/blob/master/foul-balls/foul-balls.csv`
